@@ -1,3 +1,11 @@
+/*******************************************
+-Nombres: Salomon Avila, Gabriel Jaramillo
+-Materia: Estructuras de datos
+-Pontificia Universidad Javeriana
+-Taller 02
+-Temas: TADs, implementacion
+*******************************************/
+
 #include <bits/stdc++.h>
 #define ll long long
 using namespace std;
